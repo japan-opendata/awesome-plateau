@@ -1,0 +1,45 @@
+site_name: 国土交通省 Project PLATEAU リンク集
+site_description: Awesome PLATEAU - 国土交通省が推進する都市デジタルツインプロジェクトPLATEAUの最新情報や事例のまとめ
+repo_name: japan-opendata/awesome-plateau
+repo_url: https://github.com/japan-opendata/awesome-plateau
+edit_uri: edit/master/
+
+theme:
+  name: material
+  language: ja
+  font:
+    text: "Noto Sans JP"
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: indigo
+  features:
+    - toc.follow
+    # - toc.integrate
+    - navigation.top
+    # - navigation.expand
+    - content.action.edit
+    # - content.action.view
+  icon:
+    logo: fontawesome/solid/mountain-city
+    repo: fontawesome/brands/github
+    # favicon: "favicon.png"
+
+# extra_css:
+#   - "extra/main.css"
+
+plugins:
+  - include-markdown
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
