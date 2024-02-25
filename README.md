@@ -1,4 +1,4 @@
-# 国土交通省 Project PLATEAU リンク集
+# 国土交通省 Project PLATEAU 情報まとめ
 
 > Awesome PLATEAU
 
