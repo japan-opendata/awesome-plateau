@@ -178,8 +178,8 @@
 
 ### ビューア
 
-- [PLATEAU VIEW 2.0](https://plateauview.mlit.go.jp/) - ブラウザ上でPLATEAUの3D都市モデルを閲覧できる公式Webアプリ
-- [PLATEAU VIEW 3.0 Design & Technology Preview](https://plateau.takram.com/) - 次期PLATEAU VIEWのプレビュー版 (Takram社)
+- [PLATEAU VIEW 3.0](https://plateauview.mlit.go.jp/) - ブラウザ上でPLATEAUの3D都市モデルを閲覧できる公式Webアプリ
+    - [PLATEAU VIEW 3.0 Design & Technology Preview](https://plateau.takram.com/) - PLATEAU VIEW 3.0のプレビュー版 (Takram社)
 
 ### ArcGIS
 
@@ -219,10 +219,12 @@
 - [ozekik/plateaukit](https://github.com/ozekik/plateaukit) - PLATEAU都市モデルを利用するためのPythonライブラリおよび変換ツール
 - [AcculusSasao/plateaupy](https://github.com/AcculusSasao/plateaupy) - PLATEAU CityGMLのPython版パーサおよびビューア用モジュール
     - [rhenerose/plateaupy](https://github.com/rhenerose/plateaupy) - 機能追加版フォーク
+- [eukarya-inc/plateauutils](https://github.com/eukarya-inc/plateauutils) - PLATEAUで公開されている3D都市モデル（CityGML・3DTiles/MVT）をパースして、Pythonに読み込むためのPythonライブラリ
 
 ### Rust
 
 - [geolonia/jp_plateau_tool](https://github.com/geolonia/jp_plateau_tool) - PLATEAUデータを処理するツール集
+- [PLATEAU GIS Converter](https://github.com/MIERUNE/plateau-gis-converter) - PLATEAUが提供するCityGML形式の3D都市モデルを他の一般的なGISデータ形式に変換するソフトウェア
 
 ### Unity
 
