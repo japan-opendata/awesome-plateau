@@ -16,6 +16,7 @@
     - [ファイル形式の情報](#ファイル形式の情報)
 - [コミュニティ](#コミュニティ)
 - [イベント・コンテスト](#イベントコンテスト)
+    - [PLATEAU AWARD 2024](#plateau-award-2024)
     - [PLATEAU AWARD 2023](#plateau-award-2023)
     - [PLATEAU AWARD 2022](#plateau-award-2022)
 - [アプリケーション/ツール/ライブラリ](#アプリケーションツールライブラリ)
@@ -79,6 +80,8 @@
 > イベント毎の詳細の作成・アップデートにぜひご協力ください
 
 - [PLATEAU AWARD](https://www.mlit.go.jp/plateau-next/award/) - 公式コンテスト (2022年度–)
+    - [PLATEAU AWARD 2023](https://www.mlit.go.jp/plateau-next/2023/award/)
+    - [PLATEAU AWARD 2022](https://www.mlit.go.jp/plateau-next/2022/award/)
 - [PLATEAU STARTUP Pitch](https://www.mlit.go.jp/plateau-next/#plateau-startup-pitch)
     - PLATEAU STARTUP Pitch 02 [アーカイブ配信](https://www.youtube.com/watch?v=Pk1gh_689dE)
     - PLATEAU STARTUP Pitch 01 [アーカイブ配信](https://www.youtube.com/watch?v=fytNa-rdvgQ)
@@ -94,6 +97,34 @@
 
 - [PLATEAU NEXT](https://www.mlit.go.jp/plateau-next/) - 最新の公式イベント情報
 - [公式サイト内 Journalページ](https://www.mlit.go.jp/plateau/journal/) - 過去のイベントレポート等
+
+### PLATEAU AWARD 2024
+
+**ファイナリスト作品**
+
+- 空傘散歩
+- 虎ノ門深海水族館
+- 飛び出す避難場所マップ
+- 横浜市交通死亡事故3D体験マップ
+- PLATEAUを利用したコミュニケーション、情報共有ツール
+- 3D都市世界体験型リハビリ・トレーニング
+- Plateau3D 都市モデルを活用した衛星画像のシミュレーションでわかる災害状況と減災活用​
+- 街の"未来"を描く地図
+- イメージ共有ツール Vision×Link
+- PLATEAU Agent
+
+**奨励賞作品**
+
+- 京都市職員がPLATEAUの３D都市モデルを使って京町家についての施策をPRする動画を作ってみた
+- AIR RACE X
+- gokan city model
+- まちの対戦型維持管理ゲーム「オペメン・リバイバル」
+- Echolocation-PLATEAU
+- whack a building
+- バーチャル新小岩
+- マインクラフトを活用した​デジタルツインのワークショップ​
+- バイセコーでゴー!!
+- WILD PLATEAU
 
 ### PLATEAU AWARD 2023
 
